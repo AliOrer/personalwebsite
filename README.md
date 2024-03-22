@@ -1,2 +1,2 @@
 # personalwebsite
-personal website
+hi guys i made a personal website
